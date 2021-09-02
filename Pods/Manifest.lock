@@ -1,0 +1,36 @@
+PODS:
+  - MarqueeLabel (4.0.5)
+  - NotificationBannerSwift (3.0.6):
+    - MarqueeLabel (~> 4.0.5)
+    - SnapKit (~> 5.0.1)
+  - NWWebSocket (0.5.2)
+  - PusherSwift (10.0.0):
+    - NWWebSocket (~> 0.5.2)
+    - TweetNacl (~> 1.0.0)
+  - SnapKit (5.0.1)
+  - TweetNacl (1.0.2)
+
+DEPENDENCIES:
+  - NotificationBannerSwift (~> 3.0.0)
+  - PusherSwift
+
+SPEC REPOS:
+  trunk:
+    - MarqueeLabel
+    - NotificationBannerSwift
+    - NWWebSocket
+    - PusherSwift
+    - SnapKit
+    - TweetNacl
+
+SPEC CHECKSUMS:
+  MarqueeLabel: 00cc0bcd087111dca575878b3531af980559707d
+  NotificationBannerSwift: 7021be2338f8f29cf424b0aca43da462bf9e2a1a
+  NWWebSocket: 21f0c73639815da3272862c912275b26102aa80c
+  PusherSwift: 264eaceb921a5f8e166f01a2242371179540c7ff
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  TweetNacl: 3abf4d1d2082b0114e7a67410e300892448951e6
+
+PODFILE CHECKSUM: 6e46c98d466eb87704697b93bc127cbdc2943657
+
+COCOAPODS: 1.11.0
